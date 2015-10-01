@@ -1,5 +1,3 @@
-# Hough-Transform-with-C
-##An implementation of Hough Transform line dectection using C.
 ###input parameters explaination for function: 
 #####void HTLineDetection(unsigned char* BinaryImageDst, int* LineNumber, struct LineParameter* DetectedLine, int nHeight, int nWidth)
 #####BinaryImageDst: 
