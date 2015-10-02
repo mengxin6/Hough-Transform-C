@@ -1,7 +1,6 @@
 #include"HTLineDetect.h"
 #include<math.h>
 #include<stdlib.h>
-#include<Windows.h>
 #include<iostream>
 using namespace std;
 
